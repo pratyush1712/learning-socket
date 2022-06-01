@@ -2,8 +2,8 @@
 
 This repository contains all my projects I worked on to familiarize myself with concepts of sockets and threading.
 
-# chat
+## chat
 a simple chat application built using python
 
-# chat-app
+## chat-app
 a simple chat application with frontend in react
